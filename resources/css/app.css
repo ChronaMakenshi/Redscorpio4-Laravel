@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Orbitron';
+    src: url('../fonts/Orbitron-Bold.eot') format('embedded-opentype'),
+    url('../fonts/Orbitron-Bold.woff2') format('woff2'),
+    url('../fonts/Orbitron-Bold.woff') format('woff'),
+    url('../fonts/Orbitron-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orbitron';
+    src: url('../fonts/Orbitron-Regular.eot') format('embedded-opentype'),
+    url('../fonts/Orbitron-Regular.woff2') format('woff2'),
+    url('../fonts/Orbitron-Regular.woff') format('woff'),
+    url('../fonts/Orbitron-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+#returnToHeader {
+    bottom: 2.5rem;
+    transition: .3s;
+}
+
+@media screen and (max-width: 1416px) {
+    .g-recaptcha {
+        transform: scale(0.77);
+        transform-origin: 0 0;
+    }
+}
+
+@media screen and (max-width: 1416px) {
+    .g-recaptcha {
+        transform: scale(0.61);
+        transform-origin: 0 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .g-recaptcha {
+        transform: scale(0.90);
+        transform-origin: 0 0;
+    }
+}
+
+@media screen and (max-width: 365px) {
+    .g-recaptcha {
+        transform: scale(0.61);
+        transform-origin: 0 0;
+    }
+}
+

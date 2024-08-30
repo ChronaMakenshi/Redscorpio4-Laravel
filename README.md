@@ -10,30 +10,31 @@ Redscorpio4 est un site de vitrine de musique dynamique développé avec Laravel
 🔒 Sécurisé : Conçu avec les meilleures pratiques de sécurité de Laravel.
 🛠️ Installation et Configuration
 1. Clonez le Dépôt :
-   bash
+   ```bash
    Copier le code
    git clone https://github.com/votre-utilisateur/redscorpio4.git
    cd redscorpio4
 2. Installez les Dépendances :
-   bash
+   ```bash
    Copier le code
    composer install
    npm install
    npm run dev
 3. Configurez votre Environnement :
-   bash
+   ```bash
    Copier le code
    cp .env.example .env
    php artisan key:generate
 4. Configurez la Base de Données et Effectuez les Migrations :
-   bash
+   ```bash
    Copier le code
    php artisan migrate --seed
 5. Lancez le Serveur de Développement :
-   bash
+   ```bash
    Copier le code
    php artisan serve
-   🖼️ Aperçu du Site
+
+Site : https://redscorpio4.com/
 
 📚 Documentation
 Pour plus d'informations sur l'utilisation de Laravel, veuillez consulter la documentation Laravel ou le dossier docs de ce projet.
