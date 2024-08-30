@@ -1,4 +1,4 @@
-🎵 Redscorpio4 - Vitrine Musicale
+##🎵 Redscorpio4 - Vitrine Musicale
 
 Redscorpio4 est un site de vitrine de musique dynamique développé avec Laravel, conçu pour promouvoir des artistes, des albums, et des événements musicaux à un public mondial grâce à son support multilingue. Ce projet vise à offrir une expérience immersive et interactive aux amateurs de musique partout dans le monde.
 
@@ -42,16 +42,3 @@ Site : https://redscorpio4.com/
 📚 Documentation
 Pour plus d'informations sur l'utilisation de Laravel, veuillez consulter la documentation Laravel ou le dossier docs de ce projet.
 
-🤝 Contribution
-Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes :
-
-Forkez le projet
-Créez une branche pour votre fonctionnalité (git checkout -b feature/AmazingFeature)
-Commitez vos modifications (git commit -m 'Add some AmazingFeature')
-Poussez votre branche (git push origin feature/AmazingFeature)
-Ouvrez une Pull Request
-📧 Contact
-Pour toute question ou suggestion, veuillez nous contacter à votre-email@example.com.
-
-📄 Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
