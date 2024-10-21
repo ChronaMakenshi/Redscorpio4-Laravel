@@ -1,6 +1,6 @@
 ## 🎵 Redscorpio4 - Vitrine Musicale
 
-Redscorpio4 est un site de vitrine de musique dynamique développé avec Laravel, conçu pour promouvoir des artistes, des albums, et des événements musicaux à un public mondial grâce à son support multilingue. Ce projet vise à offrir une expérience immersive et interactive aux amateurs de musique partout dans le monde.
+Redscorpio4 est un site de vitrine de musique dynamique développé avec Laravel, conçu pour promouvoir un artistes, des albums musicaux à un public mondial grâce à son support multilingue. Ce projet vise à offrir une expérience immersive et interactive aux amateurs de musique partout dans le monde.
 
 ## 🚀 Fonctionnalités Principales
 
